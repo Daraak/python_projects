@@ -25,4 +25,4 @@ while n == 'y':
             print('You have chosen the wrong pattern style!')
     n = input('Do you want to continue [y / n] Default[n]:- ')
     if n == 'n' or n == '':
-        print('I hope you like this programS!')
+        print('I hope you like this program!')
