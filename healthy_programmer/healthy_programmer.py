@@ -117,4 +117,3 @@ if now < end:
 else:
     print("\nWrong Input! You should start this software\n"
           "at-least 1 hour prior to your job ending time.")
-    
