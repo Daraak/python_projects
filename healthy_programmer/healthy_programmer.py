@@ -84,7 +84,7 @@ if now < end:
         exe.close()
 
     while time_1 < now < end:
-        pygame.time.delay(10000)
+        pygame.time.delay(900000)
         for i in range(2):
             drink_water()
         log = input("To log your water time, just hit the 'Enter' button::")
@@ -94,7 +94,7 @@ if now < end:
             log_time = cur_time.strftime('%H:%M:%S')
             with open('water.txt', 'a') as water:
                 water.write('[' + str(log_time) + '] ' + log + '\n')
-        pygame.time.delay(10000)
+        pygame.time.delay(900000)
         for i in range(2):
             eye_exe()
         log = input("To log your eye exercise time, just hit the 'Enter' button::")
@@ -104,7 +104,7 @@ if now < end:
             log_time = cur_time.strftime('%H:%M:%S')
             with open('eyeExe.txt', 'a') as water:
                 water.write('[' + str(log_time) + '] ' + log + '\n')
-        pygame.time.delay(10000)
+        pygame.time.delay(900000)
         for i in range(2):
             stretching_exercise()
         log = input("To log your stretching exercise time, just hit the 'Enter' button::")
