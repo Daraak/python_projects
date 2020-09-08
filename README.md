@@ -7,4 +7,4 @@ These are few of my very very simple python projects
 
 3. Stone Paper Scissor:- Many of us have played this game with friends (humans), let's try once palying with a machine
 
-4. Healthy Programmer:- This program is intended to take care of the health of programmers, works as an audio reminder system (audio files included) and tells that how a programmer can even take care of his/her health while working.
+4. Healthy Programmer:- This program is intended to take care of the health of programmers, works as an audio reminder system (audio files included) and tells that how a programmer can take care of his/her health even while working.
