@@ -12,7 +12,7 @@ These are few of my extremely simple python projects
 5. Euclidean Distance:- This program is intended to find the "Euclidean Distance" between the given two coordinates.
 
   i. Input:- 
-  >> test_cases = "n" (number of test_cases)
+  >> test_cases = "n" (number of test_cases),
   >> values = x1, y1, x2, y2 (values for each test case)
 
   ii. Output:-
