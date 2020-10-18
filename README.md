@@ -8,3 +8,12 @@ These are few of my very very simple python projects
 3. Stone Paper Scissor:- Many of us have played this game with friends (humans), let's try once palying with a machine
 
 4. Healthy Programmer:- This program is intended to take care of the health of programmers, works as an audio reminder system (audio files included) and tells that how a programmer can take care of his/her health even while working.
+
+5. Euclidean Distance:- This program is intended to find the "Euclidean Distance" between the given two coordinates.
+
+input:- 
+test_cases = "n" (number of test_cases)
+values = x1, y1, x2, y2 (values for each test case)
+
+output:-
+Distance: x.xx (distance between the given coordinates)
