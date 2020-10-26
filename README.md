@@ -17,3 +17,5 @@ These are few of my extremely simple python projects
 
   ii. Output:-
   >> Distance: x.xx (distance between the given coordinates)
+
+6. Library Manager:- Just a demo/prototype version of an actual and optimal library management application software.
