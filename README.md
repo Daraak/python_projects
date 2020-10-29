@@ -19,3 +19,5 @@ These are few of my extremely simple python projects
   >> Distance: x.xx (distance between the given coordinates)
 
 6. Library Manager:- Just a demo/prototype version of an actual and optimal library management application software.
+
+7. Organizer:- Prettify and construct your directories in an organized manner using just a simple python script called "organizer".
