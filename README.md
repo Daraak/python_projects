@@ -20,4 +20,4 @@ These are few of my extremely simple python projects
 
 6. Library Manager:- Just a demo/prototype version of an actual and optimal library management application software.
 
-7. Organizer:- Prettify and construct your directories in an organized manner using just a simple python script called "organizer".
+7. Organizer:- Prettify and construct your directories in an organized manner just using a simple python script called "organizer".
