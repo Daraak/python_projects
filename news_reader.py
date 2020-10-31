@@ -7,8 +7,8 @@ my_params = {
     'pageSize': 20,
     'totalResults': 10,
     'category': 'technology',
-    'apiKey': '942a1011ccfd4be5a5a6f46f47cf67bc'
-    # 'url': 'https://www.theverge.com/'
+    'apiKey': 'your own apiKey from --> newsapi.org',
+    'url': 'any news site (optional)'
 }
 my_news = requests.get(my_url, params=my_params).json()
 
